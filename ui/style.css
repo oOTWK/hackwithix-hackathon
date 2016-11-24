@@ -1,0 +1,41 @@
+div.chart {
+    display: inline-block;
+    margin: 7px;
+}
+
+div.hidden {
+	display: none;
+}
+
+div.hori-chart {
+	display: inline-block;
+	vertical-align: bottom;
+}
+
+div.top-chart {
+	display: inline-block;
+	vertical-align: top;
+	margin: 4px;
+}
+
+div.view4-cont {
+	width: 620px;
+	height: 550px;
+}
+
+#chartbutton {
+	margin: 10px;
+}
+
+label {
+    margin-right: 7px;
+}
+
+#chart-container {
+	padding-left: 30px;
+}
+
+button.nav-btn {
+	margin-top: 10px;
+	margin-left: 10px;
+}
