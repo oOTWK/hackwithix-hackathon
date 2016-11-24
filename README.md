@@ -21,3 +21,7 @@ The following files are what I coded:
 ### Query inputs
 - datacenter: NA, EU, AS
 - server: NA0001, NA0002, NA0003, NA0004, NA0005, EU0001, EU0002, EU0003, EU0004, AS0001, AS0002, AS0003
+
+
+
+![ui](https://cloud.githubusercontent.com/assets/16660829/20610507/c65d0eca-b268-11e6-91e2-b187147e71bb.png)
