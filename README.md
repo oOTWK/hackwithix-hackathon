@@ -23,6 +23,9 @@ The following files are what I coded:
 - server: NA0001, NA0002, NA0003, NA0004, NA0005, EU0001, EU0002, EU0003, EU0004, AS0001, AS0002, AS0003
 
 
+
 ### User Interface
+
 ![ui2](https://cloud.githubusercontent.com/assets/16660829/20610553/5573457a-b269-11e6-93db-9b16dc58822a.png)
+
 ![ui](https://cloud.githubusercontent.com/assets/16660829/20610507/c65d0eca-b268-11e6-91e2-b187147e71bb.png)
