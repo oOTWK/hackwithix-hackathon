@@ -6,7 +6,7 @@ My team's idea is giving options to view data with different types of chart. Whe
 
 ### My work
 \#HackWithIX provided two servers, one of which sends JSON data and the other one sends the index page. This is the github page they provided, https://github.com/indexexchange/hack-with-ix.
-The follow files are my work:
+The following files are what I coded:
 - ui/index.html
 - ui/style.css
 - ui/query.js
